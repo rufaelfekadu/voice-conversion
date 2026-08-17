@@ -1,0 +1,3 @@
+[submodule "resemble-enhance"]
+	path = knn-vc
+	url = https://github.com/rufaelfekadu/knn-vc.git
